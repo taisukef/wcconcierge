@@ -1,4 +1,4 @@
-# wcconcierge
+# WC-Concierge
 Public Toilet Concierge in SPARQL &amp; JS
 
 see also http://fukuno.jig.jp/939
